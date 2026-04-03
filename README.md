@@ -1,2 +1,5 @@
-# nomi-releases
-Public APK releases for Nomi
+﻿Nomi Releases
+
+This repository contains official APK releases of the Nomi app.
+
+Download the latest version below.
