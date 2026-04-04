@@ -1,0 +1,2 @@
+# APKs are distributed via GitHub Releases to avoid huge git pushes / HTTP timeouts.
+apk/*.apk
